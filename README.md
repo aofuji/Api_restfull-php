@@ -1,4 +1,3 @@
- [TOC]
 
 ### API RESTful SLIM 3 
- JWT 
+- Autenticação JWT 
